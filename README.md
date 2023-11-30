@@ -2,6 +2,5 @@
 v2 of nitro generator
 
 
-pip install -r requirements.txt
 
-python main.py
+just open start.bat
